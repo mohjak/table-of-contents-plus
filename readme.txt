@@ -105,7 +105,7 @@ I will never ask for any form of reward or compensation.  Helping others achieve
 
 == Changelog ==
 = 2408 =
-* Released: xx August 2024
+* Released: 14 August 2024
 * Redo XSS issue reported by wpscan
 
 = 2406 =
